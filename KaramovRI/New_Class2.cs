@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KaramovRI
 {
-    internal class New_class
+    internal class New_Class2
     {
     }
 }
