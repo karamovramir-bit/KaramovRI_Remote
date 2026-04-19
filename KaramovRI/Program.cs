@@ -8,7 +8,13 @@
         }
 
         //Карамов Рамир Ирикович, гр. АТ-2-21
-        //solve task2
+
+        static public double Sqr(double X)
+        {
+            return X * X;
+        }
+
         //solve task1
+        //solve task2
     }
 }
